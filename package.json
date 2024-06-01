@@ -1,0 +1,16 @@
+{
+  "name": "mini_project",
+  "productName": "Automated Backup Application",
+  "version": "1.0.0",
+  "description": "backup app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "James",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^30.0.9",
+    "toastify-js": "^1.12.0"
+  }
+}
